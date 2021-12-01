@@ -1,7 +1,7 @@
 ---
 title: what is cryptocurrency?
 layout: template
-filename: index
+filename: tab1
 --- 
 
 # CRYPTOCURRENCY
