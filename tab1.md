@@ -1,32 +1,28 @@
 ---
-title: what is cryptocurrency?
+title: introduction
 layout: template
 filename: tab1
 --- 
 
-# CRYPTOCURRENCY
+# THE FIRE
 
-## **What is it?**
+On October 14th, 2021 at approximately 2:00 AM, a fire struck the Cheng Chung Cheng building located in Kaohsiung (south of Taiwan). This took place in the city of Kaohsiung, on the seventh through eleventh floors of the building. Although the cause of the fire remains unknown, investigators suspect it was ignited by an incense coil that was left in a room unattended (Hale, 2021). It took 159 firefighters and almost 5 hours to extinguish the fire which resulted in 46 deaths, and over 40 injuries.  
 
-- In the simplest form: it is a type of digital money that  serves as an alternative to tangible cash 
+---
 
-## **What are the different types?**
+# THE PEOPLE
 
-- Just like how different types of currency exist (like US Dollars, Euros, Japanese Yen, and Candian Dollar), there are different types of cryptocurrency
-- Among the most well-known are Bitcoin (BTC) and Ethereum (ETH)
+The majority of residents were poor, disabled, and older, leaving a large percentage of them trapped in the building when the fire took over. The cheap rent was a main reason the residents endured the unideal living conditions (The Associated Press, 2021). 
 
-## **How does it work?**
+---
 
-- It utilizes blockchain technology (which is basically a database that records EVERY transaction ever made in that cryptocurrency)  
+# THE BUILDING
+
+The 13-story mixed-use building used to house a movie theater and have restaurants on the ground floor until people started moving away and it turned into what locals refer to as the “ghost building.” While the first to fifth floors were abandoned and unoccupied, over 120 households occupied the seventh through eleventh floors. (Everington, 2021) 
 
 ------
 ![crypto infographic](/images/cryptoprocess.png)
 
 ------
 
-## **FUN FACT** 
-
-- No one knows who actually came up with Bitcoin, the first cryptocurrency. The secret identity was the first person to ever implement Blockchain technology in 2009. The inventor goes by the pseudonym, **[Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)**. 
-
-### Click [here](https://tifhsu88.github.io/crackingcrypto/tab2) to find out why cryptocurrency was even invented
-
+### Click [here](https://tifhsu88.github.io/envs130a-final-project/tab2) to learn more about the historical context and policies contributing to the disaster.
