@@ -1,22 +1,22 @@
 ---
-title: why should I care?
+title: reaplce with tab 3 name
 layout: template
 filename: tab3
 --- 
 
-# IMPLICATIONS 
+# THE IMPACTS
 
-## **How exactly is cryptocurrency harming the environment?**
+Due to the fire, the residents that once lived in the “ghost building” face displacement. Furthermore, most of the residents were elderly and/or disabeled, which hinders their ability to access secure housing and basic needs. The residents will likely not be able to afford to live in the new building, if the building is being rebuilt. This plays into the idea of disaster capitalism, which is further explained in tab 4. [link to tab 4] It is also important to note the environmental impacts of fires, which could lead to transformation of the chemical properties to affected surfaces/areas. Contamination of the surface water could also result from fire suppression methods, producing toxic by-products.  
 
-### While well-known cryptocurrencies like Bitcoin and Ethereum have grown in popularity, so have their environmental footprint.
+# CURRENT DISASTER RESPONSE
 
-The environmental harm of cryptocurrency comes from the energy source that powers these hardworking and competitive computers. With the increase in demand for mining Bitcoin, companies and miners seek cheaper alternatives to run these mining warehouses. 
+Shortly following the building fire, President Tsai Ing-wen announced her plans to reform current building requirements. The plans include collaboration between government and local authorities to set stricter fire safety inspections, particularly in older buildings. Additionally, the president seeks to make the process of redeveloping older buildings more efficient. (Wu et al., 2021) While these efforts will increase future fire safety in older buildings, the media failed to mention the recovery efforts post-fire. Immediately after the fire, media companies spanning from The New York Times, NPR, to Washington Post reported on the fire but did not include any aspect of the recovery process. When delving into Taiwanese local news reports, a majority of the media also primarily focused on the fire itself and did not mention the recovery efforts that followed. Due to the lack of information of the recovery process that followed, it would be unfair to deem Taiwan’s recovery efforts as just or unjust. However, a just recovery would entail the principles outlined below. 
 
-To maximize profits, mining companies seek locations where energy is cheap. According to the [University of Cambridge](https://cbeci.org/mining_map), over 65% of Bitcoin mining takes place in China, where energy is predominantly powered by coal. 
+# JUST VALUES
 
-## **Is there an alternative to mining?**
-
-Currently, large companies like Bitcoin and Ethereum rely on a method called “Proof of Work” which are essentially computers racing to solve the puzzle first. The first computer to solve that puzzle then receives Bitcoin as a reward and adds that solution to the blockchain. In other words, the reward depends on the amount of work done by the “miner.” In proof of work, capacity is defined by the computational power. 
-
-However, an alternative method to receive these “blocks” of solution is by “Proof of Stake.” In proof of stake, blocks are distributed according to the amount of stake an individual has. Hence, proof of stake essentially turns the action of mining obsolete. 
-
+Drawing from Dr. Alessandra Jerolleman’s principles for a just disaster recovery, the disaster recovery values will be centered around
+- Individual agency
+- Understanding systems that created the initial injustice originally
+- Ensuring equal access to resources and full participation in the decision making process
+- Considering hidden costs for safety
+- Setting mechanisms to include a wider range of individuals to qualify for aid and assistance
