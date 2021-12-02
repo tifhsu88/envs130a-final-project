@@ -1,5 +1,5 @@
 ---
-title: what are the benefits?
+title: Structural Inequalities
 layout: template
 filename: tab2
 --- 
@@ -20,10 +20,11 @@ There is still capacity for improvement regarding employment policies in Taiwan.
 ### Existing policies
 - Taiwan has a basic minimum wage
 - Required to employ 1 disabled person for every 34 employees
+
 ### Recommendations
 - Increase the level of employment for disabled individuals, while also considering an alternative program for those unable to work
 - Create more job opportunities and utilize training workshops to expand the work force and increase job opportunities
-
+---
 ## Health standards
 Although there are current programs set in place to uphold health standards, older communities and disableded individuals are still not properly accounted for in considering basic human needs.
 
@@ -40,9 +41,11 @@ Although there are current programs set in place to uphold health standards, old
 ### Recommendations
 With all the policies set in place, the government should take into consideration the hidden costs and the reality of the living conditions that numerous communities endure. Thus, we can consider calculating an adjusted minimum standard of living that factors in income as well as health care requirements. This would protect these communities from being denied basic needs. 
 
+---
 ## Building Development
 As a preventative measure, there exists the **Urban Renewal Act** . This allows local governments to convene in necessary building development projects that seek to reconstruct or renovate buildings that pose a safety risk. However, like many local government projects, processes often drag out and progress is often slowed by property rights issues.  (Wu et al., 2021)
 
+---
 ---
 
 ## MEDIA FRAMING
