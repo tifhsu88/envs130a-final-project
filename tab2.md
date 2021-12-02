@@ -24,6 +24,7 @@ There is still capacity for improvement regarding employment policies in Taiwan.
 ### Recommendations
 - Increase the level of employment for disabled individuals, while also considering an alternative program for those unable to work
 - Create more job opportunities and utilize training workshops to expand the work force and increase job opportunities
+
 ---
 ## Health standards
 Although there are current programs set in place to uphold health standards, older communities and disableded individuals are still not properly accounted for in considering basic human needs.
