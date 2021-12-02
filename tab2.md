@@ -27,7 +27,7 @@ There is still capacity for improvement regarding employment policies in Taiwan.
 
 ---
 ## Health standards
-Although there are current programs set in place to uphold health standards, older communities and disableded individuals are still not properly accounted for in considering basic human needs.
+Although there are current programs set in place to uphold health standards, older communities and disabeled individuals are still not properly accounted for in considering basic needs.
 
 ### Existing policies
 - Basic social insurance
@@ -44,7 +44,7 @@ With all the policies set in place, the government should take into consideratio
 
 ---
 ## Building Development
-As a preventative measure, there exists the **Urban Renewal Act** . This allows local governments to convene in necessary building development projects that seek to reconstruct or renovate buildings that pose a safety risk. However, like many local government projects, processes often drag out and progress is often slowed by property rights issues.  (Wu et al., 2021)
+As a preventative measure, there exists the **Urban Renewal Act** . This allows local governments to convene in necessary building development projects that seek to reconstruct or renovate buildings that pose a safety risk (Wu et al., 2021). However, like many local government projects, processes often drag out and progress is often slowed by property rights issues.  
 
 ---
 ---
