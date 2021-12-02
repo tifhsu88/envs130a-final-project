@@ -20,3 +20,8 @@ Drawing from Dr. Alessandra Jerolleman’s principles for a just disaster recove
 - Ensuring equal access to resources and full participation in the decision making process
 - Considering hidden costs for safety
 - Setting mechanisms to include a wider range of individuals to qualify for aid and assistance
+  - We should consider the hidden costs for safety in disaster recovery. Are there mechanisms to prevent people who maybe do not fit the cookie-cutter qualifications for aid from being denied?
+  
+
+If we place justice at the center of the conversation, the focus shifts from monetary value to human/social value. It will initiate a cascading effect through the following decisions. A justice-focused recovery should take into consideration the individualistic experiences of each person, without excluding basic human rights to people who may be in a circumstance where they are undocumented, unhoused, or unemployed.
+
