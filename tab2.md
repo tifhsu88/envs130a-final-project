@@ -4,25 +4,52 @@ layout: template
 filename: tab2
 --- 
 
-# ROLE OF CRYPTO IN SOCIETY 
-------
-**Cryptocurrency was invented in 2009 to address the flaws of banking systems after the global economy crash of 2008.** 
+# The disaster before the disaster... 
+--- 
 
-------
+## STRUCTURAL INEQUALITIES
+**Income and Health:** There is a positive feedback loop between low income and poor health. In other words, poor health is exacerbated by low income (Goldblatt et al., 2016, 58). This, in turn, limits individuals’ capabilities to learn skills such as disaster preparedness. Thus, the elderly, disabled residents faced a disadvantage in evacuation efforts as they were dealing with inadequate circumstances. 
 
-## **What makes it better than fiat (government-issued) currencies?**
-* Allows people to make direct transactions without a third party (like a bank). In other words, the middleman is eliminated.
-* Takes less time to transfer a payment (internationally as well). Unlike banks that have rigid business hours, the transaction process of crypto is ongoing
-* Little to no transaction fees
+**Environment:** Not to mention, Taiwan is prone to extreme weather events such as typhoons, earthquakes, flooding, and landslides, which deteriorate the stability of buildings over time (Goldblatt et al., 2016, 61). The communities in the exposed areas face greater risks, especially when coupled with unstable infrastructures. 
 
-## **Why are so many people investing in cryptocurrencies right now?**
- **Aside from the technical benefits, there is an entire psychological aspect surrounding the reason people are investing in crypto.** 
- 
-With the recent rise in popularity of crypto in the past few years, both CEO’s and celebrities have fed into the hype. This has created an appeal for the culture that cryptocurrency upholds. 
-From hearing success stories of numerous [people who became millionaires by investing in Bitcoin](https://digitalsurge.com.au/blog/5-inspirational-bitcoin-success-stories), more and more individuals have been excited by the prospect of having a chance to become millionaires themselves. In other words, individuals developed FOMO.
+## THE EXISTING POLICIES
+- Current policies regarding building safety for older buildings are not sufficient to withstand threats from disasters. In response to the Kaohsiung fire, local governments are beginning to launch nationwide safety inspections for mixed-use buildings. A policy passed in 2014 required mandated safety inspections for buildings over 11 stories. However, the city government is going to begin enforcing stricter regulations by increasing inspections for buildings over 8 stories starting in 2022 (Yang et al., 2021) . 
 
-## **How exactly do people make money from investing in cryptocurrency?**
-The highly volatile market means cryptocurrencies like Bitcoin have potential to continue rising in value. Similar to the stock market, many people purchase crypto and wait for their value to increase. For example, the [price of a single bitcoin went from $196 in October 2013 to almost $59,000 in March 2021](https://www.statista.com/statistics/326707/bitcoin-price-index/). 
+## Fair employment
+There is still capacity for improvement regarding employment policies in Taiwan. Because a majority of the residents in Cheng Chung Cheng could not afford to fix necessities like the elevator or afford fire extinguishers for preventative measures, employment is a sector that should be improved upon. More specifically, several of the residents in the building were disabeled, resulting in an even lower rate of unemployment and job retention. 
+### Existing policies
+- Taiwan has a basic minimum wage
+- Required to employ 1 disabled person for every 34 employees
+### Recommendations
+- Increase the level of employment for disabled individuals, while also considering an alternative program for those unable to work
+- Create more job opportunities and utilize training workshops to expand the work force and increase job opportunities
 
-Click [here](https://tifhsu88.github.io/crackingcrypto/tab3) to learn why this matters to you. 
+## Health standards
+Although there are current programs set in place to uphold health standards, older communities and disableded individuals are still not properly accounted for in considering basic human needs.
+
+### Existing policies
+- Basic social insurance
+- Government Employee Insurance since 1958
+- Labor Insurance since 1950
+- Farmers’ Health Insurance since 1985
+- National Pension since 2008
+- National Health Insurance since 1995 
+- Unemployment services: provide information on resources available for obtaining employment” 
+- *(Goldblatt et al., 2016, 24)*
+
+### Recommendations
+With all the policies set in place, the government should take into consideration the hidden costs and the reality of the living conditions that numerous communities endure. Thus, we can consider calculating an adjusted minimum standard of living that factors in income as well as health care requirements. This would protect these communities from being denied basic needs. 
+
+## Building Development
+As a preventative measure, there exists the **Urban Renewal Act** . This allows local governments to convene in necessary building development projects that seek to reconstruct or renovate buildings that pose a safety risk. However, like many local government projects, processes often drag out and progress is often slowed by property rights issues.  (Wu et al., 2021)
+
+---
+
+## MEDIA FRAMING
+
+The media acknowledged the financial and health-related circumstances of the individuals affected by the fire. Additionally, several media companies emphasized lax building policy enforcement in Taiwan overall (Yang et al., 2021). However, the media has not addressed the structural inequalities that caused this disaster. A more effective measure to initiate bottom-up change is to bring awareness to the realities of these populations and the root causes that resulted in their inability to afford safe housing. 
+
+
+
+
 
