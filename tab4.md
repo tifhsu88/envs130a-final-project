@@ -27,7 +27,8 @@ Key sectors of recovery include:
 - They should create a backup plan for unsafe buildings where it is difficult to get owner approvals to completely remodel.
 
 --- 
-governments should develop an alternative plan for remodeling buildings. Currently, it is difficult to reach a decision to rebuild because 100% of the owners in the building have to agree. The problem is that there are hundreds of owners for a single building, a lot of which have moved out of the country. 
+Governments should develop an alternative plan for remodeling buildings. Currently, it is difficult to reach a decision to rebuild because 100% of the owners in the building have to agree. The problem is that there are hundreds of owners for a single building, a lot of which have moved out of the country. 
+
 ---
 
 * This ties into the pay rate where minimum wage is less than $6 per hour. Given that the cost of living is lower in Taiwan, the elderly, disabled, and the poor are often at a disadvantage. **Raising the wage would increase the capacity for others to support these individuals** (Chiang, 2021)
@@ -39,10 +40,21 @@ governments should develop an alternative plan for remodeling buildings. Current
   * Plan evacuation route and periodically updating the map with respect to changes in layout
   * Assess existing equipment and familiarize residents with the equipment through training and workshops
 
-# TIMELINE
-
-
-
 ![data viz](/images/130a-visual.jpg)
 
 *Visual symbols of plans for a just disaster recovery applicable to the Kaohsiung Building Fire.*
+
+---
+
+# TIMELINE & PROCESS
+## PRE-DISASTER:
+* Before the disaster, we should address the structural inequalities by implementing preventative measures. For example, local governments should increase policy enforcement and make fines high enough that will make building owners take inspections more seriously. Individuals should take responsibility for falsely reporting inspections and ignoring key foundational faults. For example, inspections should report furniture in hallways and blocking stairwells. In addition, we should increase inclusivity for disabled individuals to maximize their capacity for affording safe housing and basic needs.
+
+## DURING THE DISASTER:
+* During the disaster, the residents (especially the older and disabled population) may not have access to disaster warnings and are more likely to experience insensitivity due to their age and health (Blinder et al., 2006, 3). Thus, implementing training workshops led by the local government prior to a disaster event would better prepare the residents in the building as they would be aware of the evacuation routes and implement safe practices regarding building safety. 
+
+## AFTER THE DISASTER:
+* Post-disaster, we should initialize the recovery process by forming a diverse group of local organization leaders, experts, business owners, and community members.The group will be able to provide insight on the healing and recovery progress as well as make decisions with consideration to background knowledge of the impacted communities.
+
+
+
