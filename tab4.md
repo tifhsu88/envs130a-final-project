@@ -1,5 +1,5 @@
 ---
-title: replace tab 4 title
+title: Recovery
 layout: template
 filename: tab4
 --- 
@@ -25,11 +25,15 @@ Key sectors of recovery include:
 - Increase affordable housing for vulnerable populations and develop locally based post disaster recovery plans (Adams et al., 2019, 15)
 - Taiwan also needs stricter enforcement and higher fines because policies and laws are often overlooked due to lax enforcement
 - They should create a backup plan for unsafe buildings where it is difficult to get owner approvals to completely remodel.
+
 --- 
 governments should develop an alternative plan for remodeling buildings. Currently, it is difficult to reach a decision to rebuild because 100% of the owners in the building have to agree. The problem is that there are hundreds of owners for a single building, a lot of which have moved out of the country. 
 ---
+
 * This ties into the pay rate where minimum wage is less than $6 per hour. Given that the cost of living is lower in Taiwan, the elderly, disabled, and the poor are often at a disadvantage. **Raising the wage would increase the capacity for others to support these individuals** (Chiang, 2021)
-* develop more effective programs for training and disaster preparedness like implementing training workshops so individuals can practice and be more aware of safe practices (Ke et al., 2020, 3)
+
+* Develop more effective programs for training and disaster preparedness like implementing training workshops so individuals can practice and be more aware of safe practices (Ke et al., 2020, 3)
+
 * **Mitigation efforts** (Ke et al., 2020, 5)
   * Proactively eliminate factors that exacerbate disasters experiences such as clearing stairwells and hallways of furniture
   * Plan evacuation route and periodically updating the map with respect to changes in layout
