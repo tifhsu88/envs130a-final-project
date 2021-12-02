@@ -21,7 +21,8 @@ The majority of residents were poor, disabled, and older, leaving a large percen
 The 13-story mixed-use building used to house a movie theater and have restaurants on the ground floor until people started moving away and it turned into what locals refer to as the “ghost building.” While the first to fifth floors were abandoned and unoccupied, over 120 households occupied the seventh through eleventh floors. (Everington, 2021) 
 
 ------
-![crypto infographic](/images/cryptoprocess.png)
+![building-fire](/images/building-fire-1.jpeg)
+Firefighters and medical workers walk past a damaged residential building following a fire in Kaohsiung, Taiwan October 14, 2021. Woo Swee Kay. From REUTERS
 
 ------
 
