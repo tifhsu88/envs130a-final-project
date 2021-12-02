@@ -39,8 +39,10 @@ governments should develop an alternative plan for remodeling buildings. Current
   * Plan evacuation route and periodically updating the map with respect to changes in layout
   * Assess existing equipment and familiarize residents with the equipment through training and workshops
 
-#TIMELINE
+# TIMELINE
 
 
 
-![data viz](/images/infographic2.png)
+![data viz](/images/130a-visual.jpg)
+
+*Visual symbols of plans for a just disaster recovery applicable to the Kaohsiung Building Fire.*
